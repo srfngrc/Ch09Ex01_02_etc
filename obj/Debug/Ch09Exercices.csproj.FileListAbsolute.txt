@@ -1,0 +1,7 @@
+C:\VSRepositories\Ch09Ex01_02_etc\bin\Debug\Ch09Exercices.exe.config
+C:\VSRepositories\Ch09Ex01_02_etc\bin\Debug\Ch09Exercices.exe
+C:\VSRepositories\Ch09Ex01_02_etc\bin\Debug\Ch09Exercices.pdb
+C:\VSRepositories\Ch09Ex01_02_etc\obj\Debug\Ch09Exercices.csprojAssemblyReference.cache
+C:\VSRepositories\Ch09Ex01_02_etc\obj\Debug\Ch09Exercices.csproj.CoreCompileInputs.cache
+C:\VSRepositories\Ch09Ex01_02_etc\obj\Debug\Ch09Exercices.exe
+C:\VSRepositories\Ch09Ex01_02_etc\obj\Debug\Ch09Exercices.pdb
